@@ -1,0 +1,53 @@
+add person john shakespeare
+add person Mary arden
+add person joan
+add person Margaret
+add person William
+add person Anne Hathaway
+add person Gilbert
+add person Joan
+add person Anne
+add person Richard
+add person Edmund
+add relationship wife
+add relationship husband
+add relationship father
+add relationship mother
+add relationship son
+add relationship daughter
+add person Susanna
+add person John Hall
+add person Hamnet
+add person Judith
+add person Thomas Quineny
+add person Elizabeth
+add person Shakespeare
+add person Richard
+add person Richard
+add person Thomas
+connect john shakespeare as husband of Mary arden
+connect Mary arden as wife of john shakespeare
+connect Joan as Daughter of john shakespeare
+connect Margaret as Daughter of john shakespeare
+connect William as Son of john shakespeare
+connect Gilbert as Son of John shakespeare
+connect Joan as Daughter of John shakespeare
+connect Anne as Daughter of John shakespeare
+connect Richard as Son of John shakespeare
+connect Edmund as Son of John shakespeare
+connect Anne Hathaway as wife of William
+connect William as husband of Anne
+connect Susanna as Daughter of William
+connect Hamnet as Son of William
+connect Judith as Daughter of William
+connect john Hall as husband of Susanna
+connect Susanna as wife of john Hall
+connect Judith as wife of Thomas Quineny
+connect Thomas Quineny as husband of Judith
+connect Elizabeth as Daughter of Susanna
+connect Shakespeare as son of Judith
+connect Richard as son of Judith
+connect Thomas as son of Judith
+count son of john shakespeare
+father of William
+father of judith
